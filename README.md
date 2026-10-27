@@ -71,9 +71,11 @@ Requires [PlatformIO](https://platformio.org/).
 
 ## Repository layout
 
-|Software/DEEEDSoft 0.2/   firmware (PlatformIO project: src/, lib/, platformio.ini)|
-|Hardware/                 KiCad project (schematic and PCB)|
-|Example Flightdata/       recorded flight data|
+| Folder | Part |
+|---|---|
+| Software/DEEEDSoft 0.2/ | firmware (PlatformIO project: src/, lib/, platformio.ini) |
+| Hardware/ | KiCad project (schematic and PCB) |
+| Example Flightdata/ | recorded flight data |
 
 The firmware lives in `Software/DEEEDSoft 0.2/`. Open that folder in VS Code / PlatformIO to build and flash it.
 
