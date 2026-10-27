@@ -94,4 +94,4 @@ Issues and pull requests are welcome – especially flight data and improvements
 
 ## License
 
-[GNU](LICENSE)
+[GPL-3.0](LICENSE)
