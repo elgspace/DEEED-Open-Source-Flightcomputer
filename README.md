@@ -71,6 +71,12 @@ Requires [PlatformIO](https://platformio.org/).
 
 ## Repository layout
 
+Software/DEEEDSoft 0.2/   firmware (PlatformIO project: src/, lib/, platformio.ini)
+Hardware/                 KiCad project (schematic and PCB)
+Example Flightdata/       recorded flight data 
+
+The firmware lives in `Software/DEEEDSoft 0.2/`. Open that folder in VS Code / PlatformIO to build and flash it.
+
 ```
 src/main.cpp           main loop, serial console, setup
 lib/Sensors/           IMU, BMP280, software I2C
@@ -79,6 +85,7 @@ lib/Actuators/         igniter and buzzer
 lib/DataLogger/        RAM buffer, CSV and summary files on SD
 hardware/              KiCad project (schematic and PCB)
 ```
+
 
 All detection thresholds are named constants at the top of `lib/StateMachine/StateMachine.cpp`.
 
