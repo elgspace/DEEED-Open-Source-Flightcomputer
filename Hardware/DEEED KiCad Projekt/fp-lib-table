@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Custom_Library.pretty") (options "") (descr ""))
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Custom_Library.pretty") (options "") (descr ""))
+	(lib (name "MICROSD_SPI_OR_SDIO_CARD") (type "KiCad") (uri "${KIPRJMOD}/MICROSD_SPI_OR_SDIO_CARD.pretty") (options "") (descr ""))
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Custom_Library.pretty") (options "") (descr ""))
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Custom_Library.pretty") (options "") (descr ""))
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Custom_Library.pretty") (options "") (descr ""))
+)

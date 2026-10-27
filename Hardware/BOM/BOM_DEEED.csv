@@ -1,0 +1,12 @@
+﻿ID,identifier,Footprint,quantity,designation
+1,BZ1,MagneticBuzzer_StarMicronics_TMB,1,Buzzer
+2,C1,CP_Radial_D8.0mm_P3.50mm,1,100μF
+3,C2,CP_Radial_D5.0mm_P2.00mm,1,10μF
+4,"Q1, Q2",TO-220-3_Vertical,2,IRLZ44N
+5,"R1, R5",Resistor ,2,2KΩ
+6,"R2, R4",Resistor ,2,1KΩ
+8,U1,XIAO-nRF52840-sense,1,XIAO-nRF52840-sense
+9,U2,BMP-280 Board,1,BMP-280 Board
+10,U3,MODULE_MICROSD_SPI_OR_SDIO_CARD,1,Adafruit 4682 SD card breakout board
+11,U4,Pololu Step-Up Voltage Regulator 5V,1,"
+Pololu 4941"
