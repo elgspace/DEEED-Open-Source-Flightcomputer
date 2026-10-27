@@ -8,6 +8,8 @@ The programming side of the project was mostly done by Claude AI, as I can't rea
 > ⚠️ **Safety notice**
 > This is a hobby project, provided **without any warranty** (see [LICENSE](LICENSE)). It is **not** a certified recovery system. In the original setup the ejection charge is fired by the rocket motor itself; the igniter output is an additional function. Follow the laws and safety codes of your rocketry association, and **always test the igniter output without any igniter connected**.
 
+I Build my own fully custom and 3D printed model Rocket around this Flightcomputer. The Rocket can be found on Makerworld. I also uploaded some of my Flight on YouTube ELG_Space https://www.youtube.com/@ELG_Space
+
 ## Technical overview
 
 | Function | Part |
