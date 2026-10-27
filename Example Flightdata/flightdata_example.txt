@@ -1,0 +1,10 @@
+Flugzusammenfassung zu flight006.csv
+
+Messpunkte:           1824
+Max. Hoehe [m]:       396.7   bei t [s]: 10.27
+Max. Laengsbeschl [g]:14.05   bei t [s]: 0.11
+Max. Steigrate [m/s]: 107.9
+Brennzeit [s]:        2.31
+Apogaeum bei [s]:     9.47
+Mittl. Sinkrate [m/s]:-2.3
+Flugdauer [s]:        129.47
