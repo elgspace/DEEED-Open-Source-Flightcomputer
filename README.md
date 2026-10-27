@@ -19,7 +19,7 @@ The programming side of the project was mostly done by Claude AI, as I can't rea
 | Buzzer | Standard 5 V buzzer (found in most electronics starter kits) |
 | Switching (buzzer and pyro channel) | 2× N-channel MOSFET IRLZ44N |
 
-The board is 24 mm wide and 106 mm tall, so it fits into a **[TODO: tube / airframe diameter]** airframe.
+The board is 24 mm wide and 106 mm tall, so it fits into a 35mm airframe.
 
 ### Pinout
 
@@ -66,14 +66,6 @@ Pull D0 briefly to GND to step to the next state (PAD → BOOST → … → LAND
 ## Build and flash
 
 Requires [PlatformIO](https://platformio.org/).
-
-```bash
-git clone https://github.com/<YOUR-NAME>/DEEED-Flight-Computer.git
-cd DEEED-Flight-Computer
-pio run                 # compile
-pio run -t upload       # flash the board
-pio device monitor      # serial monitor
-```
 
 ## Repository layout
 
